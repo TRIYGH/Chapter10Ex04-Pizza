@@ -1,0 +1,27 @@
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.exe.config
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.exe
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.pdb
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.csprojResolveAssemblyReference.cache
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4___Pizza.Form1.resources
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4___Pizza.Properties.Resources.resources
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.csproj.GenerateResource.Cache
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.exe
+C:\Users\T.Robert'sLPL\Desktop\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.pdb
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.exe.config
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.exe
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.pdb
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.exe
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.pdb
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.csprojResolveAssemblyReference.cache
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4___Pizza.Form1.resources
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4___Pizza.Properties.Resources.resources
+E:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.csproj.GenerateResource.Cache
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.exe.config
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.exe
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.pdb
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.csprojResolveAssemblyReference.cache
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4___Pizza.Form1.resources
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4___Pizza.Properties.Resources.resources
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\obj\Debug\trwCh10Ex4 - Pizza.csproj.GenerateResource.Cache
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.exe
+G:\trwCh10Ex4 - Pizza\trwCh10Ex4 - Pizza\bin\Debug\trwCh10Ex4 - Pizza.pdb
